@@ -28,8 +28,10 @@
     "immer": "^5.3.6",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "react-suspense-boundary": "^0.9.8",
     "sass": "^1.25.0",
     "sass-loader": "^8.0.2",
+    "shallowequal": "^1.1.0",
     "style-loader": "^1.1.3"
   }
 }
